@@ -1,8 +1,8 @@
 ---
 
-title: Proposed Structure of the IETF Administrative Support Activity (IASA), Version 2.0 (for Discussion)
-abbrev: IASA 2.0
-docname: draft-ietf-iasa2-struct-00
+title: Updated Guidance for the IETF Nominations Committee 
+abbrev: IASA 2.0 NomCom Guidance
+docname: draft-ietf-iasa2-nomcom-00
 category: info
 
 ipr: trust200902
@@ -13,22 +13,14 @@ wg: IASA2
 stand_alone: yes
 pi: [toc, sortrefs, symrefs]
 
-author:
+editor:
   -
-    ins: B. Haberman
-    name: Brian Haberman
-    organization: Johns Hopkins University
-    email: brian@innovationslab.net
+    ins: J. Doe
+    name: Jane Doe
+    organization: XYC
+    email: user@example.com
   -
-    ins: J. Hall
-    name: Joseph Lorenzo Hall
-    organization: CDT
-    email: joe@cdt.org
-  -
-    ins: J. Livingood
-    name: Jason Livingood
-    organization: Comcast
-    email: jason_livingood@comcast.com
+   
 
 informative:
   RFC2119:
