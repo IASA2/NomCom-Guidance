@@ -15,12 +15,10 @@ pi: [toc, sortrefs, symrefs]
 
 editor:
   -
-    ins: J. Doe
-    name: Jane Doe
-    organization: XYC
-    email: user@example.com
+    ins: L. Lynch
+    name: Lucy Lynch
+    email: llynch@civil-tongue.net
   -
-   
 
 informative:
   RFC2119:
@@ -29,41 +27,13 @@ informative:
   date: 1997-03
   target: https://www.ietf.org/rfc/rfc2119.txt
 
-  RFC7437:
-  author: Murray Kucherawy
-  date: 2015-07
-  target: https://tools.ietf.org/html/rfc7437
-
-  ML-memo:
-    title: Options for New Organization to Conduct IETF Administrative Support Activities
-    author:
-      org: Morgan Lewis
-    date: 2018-02
-    target: https://mailarchive.ietf.org/arch/msg/iasa20/XT_3vfd3OWVFCW335mRrvWuusaI/
-
-  Diagrams:
-    title: IASA 2.0 Strawman Diagram
-    author:
-      name: Richard Barnes
-      ins: R. Barnes
-    dates: 2018-02-16
-    target: https://ipv.sx/iasa2.0/IASA-Strawman.pdf
-
-  Diagrams-no-trust:
-    title: IASA 2.0 Strawman Diagram, IETF Trust Not Shown
-    author:
-      name: Richard Barnes
-      ins: R. Barnes
-    dates: 2018-02-16
-    target: https://ipv.sx/iasa2.0/IASA-Strawman-NoTrust.pdf
-
-  ietf101-slides:
-    title: IASA 2.0 IETF-101 Slides
+  iasa2-structure:
+    title: Proposed Structure of the IETF Administrative Support Activity (IASA), Version 2.0
     author:
       name: Joe Lorenzo Hall
       ins: J.L. Hall
-    dates: 2018-03-20
-    target: https://datatracker.ietf.org/meeting/101/materials/slides-101-iasa20-dt-iasa-slides-00
+    dates: 2018-07-18
+    target: https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/
 
 --- abstract
 
