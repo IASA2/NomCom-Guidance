@@ -118,6 +118,9 @@ The folllowing SHOULD also guide the NomCom in their appointments:
 
 Given the small size of the LLC Board and the great many activities that are necessary to start the LLC and create initial policies and processes, candidates need to understand that they MUST be fully engaged as Directors. Thus, simply attending Board meetings will not suffice.
 
+## IETF Experience {#ietf-experience}
+
+Candidates do NOT need to have significant technical experience as an IETF contributor, though some candidates with such experience may be helpful. But since candidates with outside expertise that may not have attended an IETF meeting may not be known to the NomCom, the NomCom MUST solicit feedback and take reasonable steps to ensure that outside candidates are duly considered.
 
 # Acknowledgments
 
