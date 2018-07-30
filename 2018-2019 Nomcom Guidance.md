@@ -61,8 +61,8 @@ Requirements for the role of board director include:
 
 In the board’s first year it is anticipated that board directors will spend an average of four hours per week on the board’s work and will need to develop serveral key policy documents as outlined in <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>. 
 
-## Number of NomCom-Sourced IETF LLC Directors and Terms
-A minimum of five Directors must be seated in order for the Board to be constituted, and the Interim Board to be dissolved, as noted in <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>. One director will be appointed by the Internet Society (ISOC), one by the Internet Engineering Steering Group (IESG), and three by the NomCom. The three appointments from the NomCom must be confirmed by the IESG.
+## Number of NomCom-Sourced Directors and Terms
+A minimum of five Directors must be seated in order for the Board to be constituted, and the Interim Board to be dissolved, as noted in <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>. One director will be appointed by tISOC, one by the Internet Engineering Steering Group ("IESG:), and three by the NomCom. The three appointments from the NomCom must be confirmed by the IESG.
 
 Because the board will be in its initial phase, three candidates are sought with staggered board terms: one for a one-year appointment, one for a two-year appointment, and one for a three-year appointment. Standard board terms are three years in length. Board directors are allowed to serve two consecutive three-year terms. Partial terms of less than three years do not count against this term limit. 
 
