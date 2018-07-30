@@ -48,6 +48,8 @@ Ideal candidates for the role of board director should have prior professional e
 
 Preference may be given to candidates with prior non-profit or corporate board experience and/or prior experience with the IETF or other similar technical or standards development organizations.
 
+It seems unlikely each candidate will bring all of this experience individually. So the NomCom may wish to focus on a balance among the desired qualifications across the three final appointees, as a combined slate with complimentary skills and experience.
+
 ## IETF LLC Board Requirements
 Requirements for the role of board director include:
 
@@ -65,6 +67,11 @@ In the board’s first year it is anticipated that board directors will spend an
 A minimum of five Directors must be seated in order for the Board to be constituted, and the Interim Board to be dissolved, as noted in <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>. One director will be appointed by tISOC, one by the Internet Engineering Steering Group ("IESG:), and three by the NomCom. The three appointments from the NomCom must be confirmed by the IESG.
 
 Because the board will be in its initial phase, three candidates are sought with staggered board terms: one for a one-year appointment, one for a two-year appointment, and one for a three-year appointment. Standard board terms are three years in length. Board directors are allowed to serve two consecutive three-year terms. Partial terms of less than three years do not count against this term limit. 
+
+## Candidates from Outside the IETF Community
+It seems likely that some candidates will come from outside the regular IETF community. As a result, the NomCom's call for IETF community feedback for those candidates may result in a minimal response. The NomCom will therefore in some cases need to work to solicit feedback from outside of the IETF community, perhaps including by asking candidates to send the names of refernces to the NomCom, by reviewing LinkedIn profiles, etc.
+
+Futhermore, it seems likely that some candidates may not attend IETF 103 in Thailand. As a result, the NomCom may wish to adopt a uniform interview style so that in-person candidates from within the IETF community are not unfairly or inadvertently favored. A possible solution may be to use a video-conference (e.g. Zoom) for conducting all of these interviews. 
 
 # Specific Directions to the NomCom
 
