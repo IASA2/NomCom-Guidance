@@ -8,14 +8,13 @@ Email Subject: 2018 NomCom Guidance on IETF Administration LLC and IAOC
 This document provides short-term guidance to the 2018 NomCom (details at <https://datatracker.ietf.org/nomcom/2018/>) to help the NomCom with their initial selections. A full update of RFC 4371 is planned.
 
 # Background
-The Internet Engineering Task Force (IETF) is a technical standards-setting organization responsible for developing and defining the standards and protocols that make up the Internet. The IETF was established in 1986, and has since then been the center of development for the technologies that make up what we think of as the Internet. The IETF community gathers three times per year for week-long meetings at locations around the world. IETF standards are published in the Request for Comments (RFC) Series, which contains more than 8,000 documents. More information about the IETF is available at <https://www.ietf.org/>.
+The Internet Engineering Task Force ("IETF") is a technical standards-setting organization responsible for developing and defining the standards and protocols that make up the Internet. The IETF was established in 1986, and has since then been the center of development for the technologies that make up what we think of as the Internet. The IETF community gathers three times per year for week-long meetings at locations around the world. IETF standards are published in the Request for Comments (RFC) Series, which contains more than 8,000 documents. More information about the IETF is available at <https://www.ietf.org/>.
 
 ## The IASA is Being Updated
-The IETF is transitioning to a new version 2.0 of the IETF Administrative Support Activity. As part of this transition, the Internet Administrative Oversight Committee (IAOC) will be eliminated, and its oversight and advising functions transferred to the new IETF Administration LLC ("IETF LLC"). The LLC will have a Board of Directors and the IETF Nominations Committee ("NomCom") will need to appoint several members. 
-<https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/> provides a high-level summary of the structure and responsibilities. 
+The IETF is transitioning to a new version 2.0 of the IETF Administrative Support Activity. As part of this transition, the Internet Administrative Oversight Committee (IAOC) will be eliminated, and its oversight and advising functions transferred to the new IETF Administration LLC ("IETF LLC"). The IETF LLC will have a Board of Directors and the IETF Nominations Committee ("NomCom") will need to appoint several members. A document that provides a high-level summary of the structure and responsibilities can be found at <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>.
 
 ## Overview of the IETF Administration LLC
-The IETF Administration LLC (“IETF LLC”) provides a corporate legal framework for facilitating current and future activities related to the Internet Engineering Task Force as well as its sister organizations, the Internet Architecture Board and the Internet Research Task Force (referred to collectively as “the IETF” below for brevity). IETF LLC exists to provide administrative support to these organizations. Its responsibilities are:
+The IETF LLC provides a corporate legal framework for facilitating current and future activities related to the Internet Engineering Task Force as well as its sister organizations, the Internet Architecture Board ("IAB") and the IETF. IETF LLC exists to provide administrative support to these organizations. Its responsibilities are:
 
 * Operations.  IETF LLC is responsible for supporting the ongoing operations of the IETF, including meetings and non-meeting activities.
 
@@ -26,7 +25,7 @@ The IETF Administration LLC (“IETF LLC”) provides a corporate legal framewor
 * Compliance.  IETF LLC is responsible for establishing and enforcing policies to ensure compliance with applicable laws, regulations, and rules.
 
 ## Relation to the Internet Society
-IETF LLC is organized as a “disregarded entity” of the Internet Society (ISOC), which means it operates as a branch or division of ISOC for tax purposes. ISOC is a US 501(c)(3) not-for-profit organization founded in 1992 that supports and promotes the development of the Internet as a global technical infrastructure, a resource to enrich people’s lives, and a force for good in society.
+IETF LLC is organized as a “disregarded entity” of the Internet Society ("ISOC"), which means it operates as a branch or division of ISOC for tax purposes. ISOC is a US 501(c)(3) not-for-profit organization founded in 1992 that supports and promotes the development of the Internet as a global technical infrastructure, a resource to enrich people’s lives, and a force for good in society.
 
 ## Establishment of the IETF LLC
 IETF LLC will be established in August 2018. It is currently being managed by an interim board of directors until the first full board of directors is seated in late 2018 or early 2019. 
@@ -34,7 +33,7 @@ IETF LLC will be established in August 2018. It is currently being managed by an
 ## IETF LLC Board Overview
 Candidates are sought for the role of board director on the first full board. All board directors are unpaid volunteers.
 
-The IETF LLC board of directors is responsible for setting broad strategic direction for IETF LLC. The board will be responsible for hiring and supervising an executive director. The executive director will be responsible for managing the day-to-day affairs of IETF LLC, including hiring staff to carry out the LLC’s responsibilities.
+The IETF LLC Board of Directors is responsible for setting broad strategic direction for IETF LLC. The board will be responsible for hiring and supervising an Executive Director. The Executive Director will be responsible for managing the day-to-day affairs of IETF LLC, including hiring staff to carry out the LLC’s responsibilities.
 
 The board’s other responsibilities include adopting an annual budget, adopting employee benefit plans, consulting the IETF community on matters as appropriate, and approving entering into agreements that that meet a significant materiality threshold. Ideally, some board directors will be positioned to play an active role in helping to secure financial resources for the IETF and to leverage personal connections that help the staff identify and solicit potential funders. The board’s work is high-level and strategic; the board is expected to delegate management of day-to-day activities and related decision-making to staff.
 
