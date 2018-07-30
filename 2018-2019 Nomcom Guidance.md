@@ -5,7 +5,7 @@ To be sent via email to NomCom chairperson, from the IASA2 WG chairs
 Email Subject: 2018 NomCom Guidance on IETF Administration LLC and IAOC
 
 # Purpose
-This document provides short-term guidance to the 2018 NomCom <https://datatracker.ietf.org/nomcom/2018/> to help the NomCom with their initial selections. A full update of RFC 4371 is planned.
+This document provides short-term guidance to the 2018 NomCom (details at <https://datatracker.ietf.org/nomcom/2018/>) to help the NomCom with their initial selections. A full update of RFC 4371 is planned.
 
 # Background
 The Internet Engineering Task Force (IETF) is a technical standards-setting organization responsible for developing and defining the standards and protocols that make up the Internet. The IETF was established in 1986, and has since then been the center of development for the technologies that make up what we think of as the Internet. The IETF community gathers three times per year for week-long meetings at locations around the world. IETF standards are published in the Request for Comments (RFC) Series, which contains more than 8,000 documents. More information about the IETF is available at <https://www.ietf.org/>.
