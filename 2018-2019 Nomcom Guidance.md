@@ -1,9 +1,7 @@
 ---
 # Updated Guidance for the IETF Nominations Committee 
-
-## To be sent via email to NomCom chairperson, from the IASA2 WG chairs
-
-## Email Subject: 2018-2019 NomCom Guidance on IETF Administration LLC and IAOC
+To be sent via email to NomCom chairperson, from the IASA2 WG chairs
+Email Subject: 2018 NomCom Guidance on IETF Administration LLC and IAOC
 
 # Purpose
 This document provides short-term guidance to the 2018 NomCom <https://datatracker.ietf.org/nomcom/2018/> to help the NomCom with their initial selections. A full update of RFC 4371 is planned.
