@@ -22,7 +22,7 @@ The attached document describes the desired expertise for the LLC Board Director
 It seems likely that some candidates will come from outside the regular IETF community. As a result, the NomCom's call for IETF community feedback for those candidates may result in a minimal response. The NomCom will therefore in some cases need to work to solicit feedback from outside of the IETF community, perhaps including by asking candidates to send the names of references to the NomCom, by reviewing LinkedIn profiles, etc.
 
 ## Uniform Interview Format Recommended
-Since it seems likely that some candidates may not attend IETF 103 in Thailand, the NomCom should strongly consider adopting a uniform interview style so that in-person candidates from within the IETF community are not unfairly or inadvertently favored. A possible solution may be to use audio or video conferencing for conducting all of these interviews. 
+Since it seems likely that some candidates may not attend IETF 103 in Thailand, the NomCom should strongly consider adopting a uniform interview style so that in-person candidates from within the IETF community are not unfairly or inadvertently favored. A possible solution may be to use audio or video conferencing for conducting all of these interviews. Consistency is the key to fairness in the nominations process, partcularly for these roles. 
 
 ## Other Questions
 The IETF Administrative Director (IAD) and legal counsel are available to provide further support to the NomCom as necessary. 
