@@ -5,13 +5,13 @@ To be sent via email to IETF Executive Director, from the IASA2 WG chairs
 Email Subject: 2018 NomCom Guidance on IETF Administration LLC and IAOC
 
 # Purpose
-This document provides short-term guidance to the 2018-2019 NomCom (details at <https://datatracker.ietf.org/nomcom/2018/>) to help the NomCom with their initial selections. An update of RFC 7437 is planned for the future. We request that the IETF Executive Director forward this email to the NomCom Chair.
+This document provides short-term guidance to the 2018 IETF Nominations Committee ("NomCom", details at <https://datatracker.ietf.org/nomcom/2018/>) to help the NomCom with their initial selections. An update of RFC 7437 is planned for the future. We request that the IETF Executive Director forward this email to the NomCom Chair.
 
 ## The IASA is Being Updated
 The IETF is transitioning to a new version 2.0 of the IETF Administrative Support Activity. As part of this transition, the Internet Administrative Oversight Committee (IAOC) will be eliminated, and its oversight and advising functions transferred to the new IETF Administration LLC ("IETF LLC"). The IETF LLC will have a board of directors and the NomCom will need to appoint several members. A document that provides a high-level summary of the LLC structure and responsibilities can be found at <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>.
 
 ## Number of NomCom-Sourced Directors and Terms
-A minimum of five directors must be seated in order for the board to be constituted, and the interim board to be dissolved, as noted in <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>. One director will be appointed by ISOC. One director will be the IETF Chair, or a delegate appointed by the Internet Engineering Steering Group (IESG). Three directors will need to be appointed by the 2018-2019 NomCom. The three appointments from the NomCom must be confirmed by the IESG.
+A minimum of five directors must be seated in order for the board to be constituted, and the interim board to be dissolved, as noted in <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>. One director will be appointed by ISOC. One director will be the IETF Chair, or a delegate appointed by the Internet Engineering Steering Group ("IESG"). Three directors will need to be appointed by the 2018-2019 NomCom. The three appointments from the NomCom must be confirmed by the IESG.
 
 Because the board will be in its initial phase, the three NomCom-selected candidates are sought with staggered board terms: one for a one-year appointment, one for a two-year appointment, and one for a three-year appointment. Standard board terms are three years in length. Board directors are allowed to serve two consecutive three-year terms. Partial terms of less than three years do not count against this term limit. 
 
@@ -36,5 +36,3 @@ Make three appointments and confirm them with the IESG.
 
 ## Confirm Nominations by March 22, 2019
 The first full board must be formed no later than the end of the first quarter of 2019. ISOC and the IESG have been asked to make their appointments no later than January 31, 2019. Given that the NomCom needs to select more candidates than those other bodies, additional time has been allotted. As a result, the 2018-2019 NomCom must make their appointments no later than March 22, 2019. If the NomCom can make their appointments sooner, then by all means they should do so in order to enable the first full board to begin working as soon as possible.
-
-
