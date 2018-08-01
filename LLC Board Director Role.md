@@ -15,8 +15,8 @@ The IETF Administration LLC ("IETF LLC") provides a corporate legal framework fo
 ## Relation to the Internet Society
 IETF LLC is organized as a “disregarded entity” of the Internet Society ("ISOC"), which means it operates as a branch or division of ISOC for tax purposes. ISOC is a US 501(c)(3) not-for-profit organization founded in 1992 that supports and promotes the development of the Internet as a global technical infrastructure, a resource to enrich people’s lives, and a force for good in society.
 
-## Establishment of the IETF LLC
-IETF LLC will be established in August 2018. It will initially be managed by an interim board of directors until the first full board of directors is seated in late 2018 or early 2019. 
+# Establishment of the IETF LLC
+IETF LLC will be established in late 2018. It will initially be managed by an interim board of directors until the first full board of directors is seated in late 2018 or early 2019, which depends upon NomCom appointments.
 
 ## IETF LLC Board Overview
 Candidates are sought for the role of board director on the first full board. All board directors are unpaid volunteers.
@@ -48,6 +48,3 @@ Requirements for the role of board director include:
 * Acting in compliance with all applicable laws, regulations, and board policies. 
 
 In the board’s first year it is anticipated that board directors will spend an average of four hours per week on the board’s work. 
-
-
-
