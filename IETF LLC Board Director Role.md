@@ -1,5 +1,5 @@
 ---
-# LLC Board Director Role 
+# IEFT Administration LLC Board Director Role 
 
 ## Overview of the IETF Administration LLC
 The IETF Administration LLC ("IETF LLC") provides a corporate legal framework for facilitating current and future activities related to the Internet Engineering Task Force as well as its sister organizations, the Internet Architecture Board and the Internet Research Task Force. IETF LLC exists to provide administrative support to these organizations. Its responsibilities are:
