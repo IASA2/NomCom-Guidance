@@ -36,6 +36,8 @@ Ideal candidates for the role of board director should have prior professional e
 
 Preference may be given to candidates with prior non-profit or corporate board experience and/or prior experience with the IETF or other similar technical or standards development organizations.
 
+It seems unlikely each candidate will bring all of this experience individually. So the NomCom may wish to focus on a balance among the desired qualifications across the three final appointees, as a combined slate with complimentary skills and experience.
+
 ## Candidate Requirements
 Requirements for the role of board director include:
 
