@@ -2,7 +2,7 @@
 # IEFT Administration LLC Board Director Role 
 
 ## Overview of the IETF Administration LLC
-The IETF Administration LLC ("IETF LLC") provides a corporate legal framework for facilitating current and future activities related to the Internet Engineering Task Force as well as its sister organizations, the Internet Architecture Board and the Internet Research Task Force. IETF LLC exists to provide administrative support to these organizations. Its responsibilities are:
+The IETF Administration LLC ("IETF LLC") provides a corporate legal framework for facilitating current and future activities related to the Internet Engineering Task Force as well as its sister organizations, the Internet Architecture Board ("IAB") and the Internet Research Task Force ("IRTF"). IETF LLC exists to provide administrative support to these organizations. Its responsibilities are:
 
 * Operations.  IETF LLC is responsible for supporting the ongoing operations of the IETF, including meetings and non-meeting activities.
 
@@ -21,7 +21,7 @@ IETF LLC will be established in late 2018. It will initially be managed by an in
 ## IETF LLC Board Overview
 Candidates are sought for the role of board director on the first full board. All board directors are unpaid volunteers.
 
-The IETF LLC Board of Directors is responsible for setting broad strategic direction for IETF LLC. The board will be responsible for hiring and supervising an Executive Director. The Executive Director will be responsible for managing the day-to-day affairs of IETF LLC, including hiring staff to carry out the LLC’s responsibilities.
+The IETF LLC Board of Directors is responsible for setting broad strategic direction for IETF LLC on administrative, legal, financial and other non-technical areas. The board will be responsible for hiring and supervising an Executive Director. The Executive Director will be responsible for managing the day-to-day affairs of IETF LLC, including hiring staff to carry out the LLC’s responsibilities.
 
 The board’s other responsibilities include adopting an annual budget, adopting employee benefit plans, consulting the IETF community on matters as appropriate, and approving entering into agreements that that meet a significant materiality threshold. Ideally, some board directors will be positioned to play an active role in helping to secure financial resources for the IETF and to leverage personal connections that help the staff identify and solicit potential funders. The board’s work is high-level and strategic; the board is expected to delegate management of day-to-day activities and related decision-making to staff.
 
@@ -31,8 +31,9 @@ Ideal candidates for the role of board director should have prior professional e
 * Executive management, compensation, and performance review;
 * Financial management and budgeting on a seven-figure scale;
 * Working with legal counsel to address organization-related legal and compliance issues;
-* Fundraising in the non-profit sector; and/or
-* Working with geographically diverse colleagues and populations.
+* Fundraising in the non-profit sector; 
+* Working with geographically diverse colleagues and populations; and/or
+* Interpersonal skills necessary to work within a distributed team focused on enabling the IETF to fulfill its mission.
 
 Preference may be given to candidates with prior non-profit or corporate board experience and/or prior experience with the IETF or other similar technical or standards development organizations.
 
