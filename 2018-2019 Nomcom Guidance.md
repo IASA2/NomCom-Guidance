@@ -1,84 +1,33 @@
 ---
 # Updated Guidance for the IETF Nominations Committee 
-To be sent via email to NomCom chairperson, from the IASA2 WG chairs
+To be sent via email to IETF Executive Director, from the IASA2 WG chairs
 
 Email Subject: 2018 NomCom Guidance on IETF Administration LLC and IAOC
 
 # Purpose
-This document provides short-term guidance to the 2018 NomCom (details at <https://datatracker.ietf.org/nomcom/2018/>) to help the NomCom with their initial selections. A full update of RFC 4371 is planned.
-
-# Background
-The Internet Engineering Task Force ("IETF") is a technical standards-setting organization responsible for developing and defining the standards and protocols that make up the Internet. The IETF was established in 1986, and has since then been the center of development for the technologies that make up what we think of as the Internet. The IETF community gathers three times per year for week-long meetings at locations around the world. IETF standards are published in the Request for Comments (RFC) Series, which contains more than 8,000 documents. More information about the IETF is available at <https://www.ietf.org/>.
+This document provides short-term guidance to the 2018-2019 NomCom (details at <https://datatracker.ietf.org/nomcom/2018/>) to help the NomCom with their initial selections. An update of RFC 7437 is planned for the future. We request that the IETF Executive Director forward this email to the NomCom Chair.
 
 ## The IASA is Being Updated
-The IETF is transitioning to a new version 2.0 of the IETF Administrative Support Activity. As part of this transition, the Internet Administrative Oversight Committee (IAOC) will be eliminated, and its oversight and advising functions transferred to the new IETF Administration LLC ("IETF LLC"). The IETF LLC will have a Board of Directors and the IETF Nominations Committee ("NomCom") will need to appoint several members. A document that provides a high-level summary of the structure and responsibilities can be found at <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>.
-
-## Overview of the IETF Administration LLC
-The IETF LLC provides a corporate legal framework for facilitating current and future activities related to the Internet Engineering Task Force as well as its sister organizations, the Internet Architecture Board ("IAB") and the IETF. IETF LLC exists to provide administrative support to these organizations. Its responsibilities are:
-
-* Operations.  IETF LLC is responsible for supporting the ongoing operations of the IETF, including meetings and non-meeting activities.
-
-* Finances.  IETF LLC is responsible for managing the IETF's finances and budget.
-
-* Fundraising.  IETF LLC is responsible for raising money on behalf of the IETF.
-
-* Compliance.  IETF LLC is responsible for establishing and enforcing policies to ensure compliance with applicable laws, regulations, and rules.
-
-## Relation to the Internet Society
-IETF LLC is organized as a “disregarded entity” of the Internet Society ("ISOC"), which means it operates as a branch or division of ISOC for tax purposes. ISOC is a US 501(c)(3) not-for-profit organization founded in 1992 that supports and promotes the development of the Internet as a global technical infrastructure, a resource to enrich people’s lives, and a force for good in society.
-
-## Establishment of the IETF LLC
-IETF LLC will be established in August 2018. It is currently being managed by an interim board of directors until the first full board of directors is seated in late 2018 or early 2019. 
-
-## IETF LLC Board Overview
-Candidates are sought for the role of board director on the first full board. All board directors are unpaid volunteers.
-
-The IETF LLC Board of Directors is responsible for setting broad strategic direction for IETF LLC. The board will be responsible for hiring and supervising an Executive Director. The Executive Director will be responsible for managing the day-to-day affairs of IETF LLC, including hiring staff to carry out the LLC’s responsibilities.
-
-The board’s other responsibilities include adopting an annual budget, adopting employee benefit plans, consulting the IETF community on matters as appropriate, and approving entering into agreements that that meet a significant materiality threshold. Ideally, some board directors will be positioned to play an active role in helping to secure financial resources for the IETF and to leverage personal connections that help the staff identify and solicit potential funders. The board’s work is high-level and strategic; the board is expected to delegate management of day-to-day activities and related decision-making to staff.
-
-## IETF LLC Candidate Experience
-Ideal candidates for the role of board director should have prior professional experience with:
-
-* Executive management, compensation, and performance review;
-* Financial management and budgeting on a seven-figure scale;
-* Working with legal counsel to address organization-related legal and compliance issues;
-* Fundraising in the non-profit sector; and
-* Working with geographically diverse colleagues and populations.
-
-Preference may be given to candidates with prior non-profit or corporate board experience and/or prior experience with the IETF or other similar technical or standards development organizations.
-
-It seems unlikely each candidate will bring all of this experience individually. So the NomCom may wish to focus on a balance among the desired qualifications across the three final appointees, as a combined slate with complimentary skills and experience.
-
-## IETF LLC Board Requirements
-Requirements for the role of board director include:
-
-* Taking on legal and fiduciary responsibility for IETF LLC.
-* Traveling to board meetings multiple times per year. The number of meetings per year, their locations, decisions about co-locating them with IETF meetings, and availability of travel funding will be decided at the board’s discretion with input from the IETF community.
-* Attending regular conference calls, potentially in different time zones outside of normal business hours.
-* Preparing for board meetings and calls in advance and actively participating in board discussions.
-* Making heavy use of email and other online communications tools as key means for advancing the work of the board and conversing with staff and IETF participants.
-* Operating transparently and engaging openly with the IETF community and the staff.
-* Acting in compliance with all applicable laws, regulations, and board policies. 
-
-In the board’s first year it is anticipated that board directors will spend an average of four hours per week on the board’s work and will need to develop serveral key policy documents as outlined in <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>. 
+The IETF is transitioning to a new version 2.0 of the IETF Administrative Support Activity. As part of this transition, the Internet Administrative Oversight Committee (IAOC) will be eliminated, and its oversight and advising functions transferred to the new IETF Administration LLC ("IETF LLC"). The IETF LLC will have a board of directors and the NomCom will need to appoint several members. A document that provides a high-level summary of the LLC structure and responsibilities can be found at <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>.
 
 ## Number of NomCom-Sourced Directors and Terms
-A minimum of five Directors must be seated in order for the Board to be constituted, and the Interim Board to be dissolved, as noted in <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>. One director will be appointed by tISOC, one by the Internet Engineering Steering Group ("IESG:), and three by the NomCom. The three appointments from the NomCom must be confirmed by the IESG.
+A minimum of five directors must be seated in order for the board to be constituted, and the interim board to be dissolved, as noted in <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>. One director will be appointed by ISOC. One director will be the IETF Chair, or a delegate appointed by the Internet Engineering Steering Group (IESG). Three directors will need to be appointed by the 2018-2019 NomCom. The three appointments from the NomCom must be confirmed by the IESG.
 
-Because the board will be in its initial phase, three candidates are sought with staggered board terms: one for a one-year appointment, one for a two-year appointment, and one for a three-year appointment. Standard board terms are three years in length. Board directors are allowed to serve two consecutive three-year terms. Partial terms of less than three years do not count against this term limit. 
+Because the board will be in its initial phase, the three NomCom-selected candidates are sought with staggered board terms: one for a one-year appointment, one for a two-year appointment, and one for a three-year appointment. Standard board terms are three years in length. Board directors are allowed to serve two consecutive three-year terms. Partial terms of less than three years do not count against this term limit. 
+
+## LLC Board Director Role
+The attached document describes the desired expertise for the LLC Board Director role. It seems unlikely each candidate will individually bring all of the expertise listed therein. So the NomCom may wish to focus on a balance among the desired qualifications across the three selected candidates, as a combined slate with complimentary skills and experience.
 
 ## Candidates from Outside the IETF Community
 It seems likely that some candidates will come from outside the regular IETF community. As a result, the NomCom's call for IETF community feedback for those candidates may result in a minimal response. The NomCom will therefore in some cases need to work to solicit feedback from outside of the IETF community, perhaps including by asking candidates to send the names of refernces to the NomCom, by reviewing LinkedIn profiles, etc.
 
-Futhermore, it seems likely that some candidates may not attend IETF 103 in Thailand. As a result, the NomCom may wish to adopt a uniform interview style so that in-person candidates from within the IETF community are not unfairly or inadvertently favored. A possible solution may be to use a video-conference (e.g. Zoom) for conducting all of these interviews. 
+Futhermore, it seems likely that some candidates may not attend IETF 103 in Thailand. As a result, the NomCom may wish to adopt a uniform interview style so that in-person candidates from within the IETF community are not unfairly or inadvertently favored. A possible solution may be to use audio or video conferencing for conducting all of these interviews. 
+
+The IETF Administrative Director (IAD) and legal counsel are available to provide further support to the NomCom as necessary. 
 
 # Specific Directions to the NomCom
 
-## Discontinue IAOC Appointments
-The 2018 NomCom does not need to fill any further roles on the IAOC. Instead, the NomCom will need to fill roles for the IETF LLC during this NomCom cycle.
-
-## Make Three Initial IETF LLC Nominations
+## Make Three Initial IETF LLC Board Director Selections
 Make three appointments and confirm them with the IESG.
 
 * One for a 1-year term
@@ -86,7 +35,6 @@ Make three appointments and confirm them with the IESG.
 * One for a 3-year term
 
 ## Confirm Nominations by March 22, 2019
-The first full board must be formed no later than the end of the first quarter of 2019. ISOC and the IESG have been asked to make their appointments no later than January 31, 2019. Given that the NomCom needs to select more than those other bodies, additional time has been alloted. As a result, the 2018 NomCom must make their appointments no later than March 22, 2019. If the NomCom can make their appointments sooner, then by all means they should do so in order to enable the first full board to begin as soon as possible, potentially in time for IETF 104 (March 23-29, 2019).
+The first full board must be formed no later than the end of the first quarter of 2019. ISOC and the IESG have been asked to make their appointments no later than January 31, 2019. Given that the NomCom needs to select more candidates than those other bodies, additional time has been allotted. As a result, the 2018-2019 NomCom must make their appointments no later than March 22, 2019. If the NomCom can make their appointments sooner, then by all means they should do so in order to enable the first full board to begin working as soon as possible.
 
-# Acknowledgments
-Thanks to Alissa Cooper, Lucy Lynch, as well as the IASA 2.0 Working Group for their input and advice.
+
