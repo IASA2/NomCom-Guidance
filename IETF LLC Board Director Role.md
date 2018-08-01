@@ -31,7 +31,7 @@ Ideal candidates for the role of board director should have prior professional e
 * Executive management, compensation, and performance review;
 * Financial management and budgeting on a seven-figure scale;
 * Working with legal counsel to address organization-related legal and compliance issues;
-* Fundraising in the non-profit sector; and
+* Fundraising in the non-profit sector; and/or
 * Working with geographically diverse colleagues and populations.
 
 Preference may be given to candidates with prior non-profit or corporate board experience and/or prior experience with the IETF or other similar technical or standards development organizations.
