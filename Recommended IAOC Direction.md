@@ -1,3 +1,6 @@
+[Editor's note: I'm not sure that the IAOC is the correct group to provide this request to the NomCom or that any group can. That is TBD. At a minimum the NomCom chair should keep in mind that no IAOC slots must be filled.]
+
+
 We recommend that the IAOC send the following direction to the 2018 NomCom via email:
 
 ## Discontinue IAOC Appointments
