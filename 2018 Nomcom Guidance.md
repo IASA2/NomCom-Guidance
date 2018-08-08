@@ -8,7 +8,7 @@ Email Subject: 2018 NomCom Guidance on IETF Administration LLC and IAOC
 This document provides short-term guidance to the 2018 IETF Nominations Committee ("NomCom", details at <https://datatracker.ietf.org/nomcom/2018/>) to help the NomCom with their initial selections. An update of RFC 7437 is planned for the future. We request that the IETF Executive Director forward this email to the NomCom Chair.
 
 ## The IASA is Being Updated
-The IETF is transitioning to a new version 2.0 of the IETF Administrative Support Activity. As part of this transition, the Internet Administrative Oversight Committee (IAOC) will be eliminated, and its oversight and advising functions transferred to the new IETF Administration LLC ("IETF LLC"). The IETF LLC will have a board of directors and the NomCom will need to appoint several members. A document that provides a high-level summary of the LLC structure and responsibilities can be found at <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>. The current draft operating agreement and related documents can be found at <https://github.com/IASA2/legal-and-finance>.
+The IETF is transitioning to a new version 2.0 of the IETF Administrative Support Activity. As part of this transition, the Internet Administrative Oversight Committee (IAOC) will be eliminated, and its oversight and advising functions transferred to the new IETF Administration LLC ("IETF LLC"). The IETF LLC will have a board of directors and the NomCom will need to appoint several members. A document that provides a high-level summary of the LLC structure and responsibilities can be found at <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>. The current draft operating agreement and related documents can be found at <https://github.com/IASA2/legal-and-finance>. The IASA2 WG mailing list can also be perused at <https://www.ietf.org/mailman/listinfo/iasa20>.
 
 ## Number of NomCom-Sourced Directors and Terms
 A minimum of five directors must be seated in order for the board to be constituted, and the interim board to be dissolved, as noted in <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>. One director will be appointed by ISOC. One director will be the IETF Chair, or a delegate appointed by the Internet Engineering Steering Group ("IESG"). Three directors will need to be appointed by the 2018-2019 NomCom. The three appointments from the NomCom must be confirmed by the IESG.
@@ -21,16 +21,16 @@ The attached document (draft at https://github.com/IASA2/NomCom-Guidance/blob/ma
 ## Candidates from Outside the IETF Community
 It seems likely that some candidates will come from outside the regular IETF community. As a result, the NomCom's call for IETF community feedback for those candidates may result in a minimal response. The NomCom will therefore in some cases need to work to solicit feedback from outside of the IETF community, perhaps including by asking candidates to send the names of references to the NomCom, by reviewing LinkedIn profiles, etc.
 
-## Uniform Interview Format Recommended
-Since it seems likely that some candidates may not attend IETF 103 in Thailand, the NomCom should strongly consider adopting a uniform interview style so that in-person candidates from within the IETF community are not unfairly or inadvertently favored. A possible solution may be to use audio or video conferencing for conducting all of these interviews. Consistency is the key to fairness in the nominations process, partcularly for these roles. 
-
 ## Other Questions
 The IETF Administrative Director (IAD) and legal counsel are available to provide further support to the NomCom as necessary. 
 
 # Specific Directions to the NomCom
 
+## Read Key Background Documents  
+We recommend NomCom members read at least the high-level summary of the LLC structure and responsibilities can be found at <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>.
+
 ## Adopt a Uniform Interview Format
-Adopt a uniform interview format, such as via video conference, that ensures people from inside and outside of the IETF community are considered on equal footing.
+Adopt a uniform interview format, such as via video conference, that ensures people from inside and outside of the IETF community are considered on equal footing. This is because it seems likely that some candidates may not attend IETF 103 in Thailand, so that in-person candidates from within the IETF community are not unfairly or inadvertently favored. Consistency is the key to fairness in the nominations process, partcularly for these roles. 
 
 ## Make Three Initial IETF LLC Board Director Selections
 Make three appointments and confirm them with the IESG.
