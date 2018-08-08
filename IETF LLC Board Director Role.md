@@ -51,3 +51,6 @@ Requirements for the role of board director include:
 * Acting in compliance with all applicable laws, regulations, and board policies. 
 
 In the board’s first year it is anticipated that board directors will spend an average of four hours per week on the board’s work. 
+
+## Initial IETF LLC Board Priorities
+The initial priorities and key tasks of the IETF LLC Board are listed in Section 9.1 of <https://tools.ietf.org/html/draft-ietf-iasa2-struct>. 
