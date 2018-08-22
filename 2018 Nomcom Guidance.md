@@ -32,7 +32,7 @@ The IETF Administrative Director (IAD) and legal counsel are available to provid
 We recommend NomCom members read at least the high-level summary of the LLC structure and responsibilities can be found at <https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/>.
 
 ## Adopt a Uniform Interview Format
-Adopt a uniform interview format, such as via video conference, that ensures people from inside and outside of the IETF community are considered on equal footing. This is because it seems likely that some candidates may not attend IETF 103 in Thailand, so that in-person candidates from within the IETF community are not unfairly or inadvertently favored. Consistency is the key to fairness in the nominations process, partcularly for these roles. 
+Adopt a uniform interview format, such as via video conference, that ensures people from inside and outside of the IETF community are considered on equal footing. This is because it seems likely that some candidates may not attend IETF 103 in Thailand, so that in-person candidates from within the IETF community are not unfairly or inadvertently favored. Consistency is the key to fairness in the nominations process, particularly for these roles. 
 
 ## Make Three Initial IETF LLC Board Director Selections
 Make three selections and confirm them with the IESG.
